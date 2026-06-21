@@ -2,3 +2,4 @@ rdkit
 pandas
 streamlit
 pubchempy
+mtranslate
