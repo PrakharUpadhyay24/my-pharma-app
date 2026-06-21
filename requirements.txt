@@ -3,3 +3,4 @@ requests
 pandas
 pubchempy
 mtranslate
+rdkit-pypi
